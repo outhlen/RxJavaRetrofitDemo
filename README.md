@@ -1,13 +1,12 @@
 # RxJavaRetrofitDemo
 android 异步事件处理示例
 =============
-### RxJava
+##RxJava
 https://github.com/ReactiveX/RxJava
-
-###RxAndroid
+##RxAndroid
 https://github.com/ReactiveX/RxAndroid
 
-###  References
+## References
 - [Retrofit Github](https://github.com/square/retrofit)
 - [Retrofit Website](https://square.github.io/retrofit/)
 
